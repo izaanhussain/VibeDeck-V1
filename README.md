@@ -1,5 +1,5 @@
 # VibeDeck-V1
-A custom 3×3 macropad built from scratch with a XIAO RP2040, custom PCB, and 3D-printed case. I made this for hackclub embassy
+A custom 3×3 macropad built from scratch with a XIAO RP2040, custom PCB, and 3D-printed case & contains 9 switch keys, a rotary encoder, and an OLED screen. I made this for hackclub embassy
 
 <img width="977" height="743" alt="WhatsApp Image 2026-11-08 at 1 47 49 PM" src="https://github.com/user-attachments/assets/d52fdcd4-e877-464e-91b4-8aa1071fd62a" />
 
