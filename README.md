@@ -1,5 +1,5 @@
 # VibeDeck-V1
-A custom 3×3 macropad built from scratch with a XIAO RP2040, custom PCB, and 3D-printed case.
+A custom 3×3 macropad built from scratch with a XIAO RP2040, custom PCB, and 3D-printed case. I made this for hackclub embassy
 
 <img width="977" height="743" alt="WhatsApp Image 2026-11-08 at 1 47 49 PM" src="https://github.com/user-attachments/assets/d52fdcd4-e877-464e-91b4-8aa1071fd62a" />
 
@@ -22,8 +22,13 @@ The PCB is made in Kicad
 
 <img width="802" height="624" alt="image" src="https://github.com/user-attachments/assets/c2662e9d-ed01-4e3d-af60-9538d57e4167" />
 
+# Schematic
+
 <img width="845" height="591" alt="image" src="https://github.com/user-attachments/assets/5cb51dbd-4600-4ca7-bab1-a474490a98a0" />
 
+# Case
+
+<img width="977" height="743" alt="WhatsApp Image 2026-11-08 at 1 47 49 PM" src="https://github.com/user-attachments/assets/71077600-af35-4e7f-afd6-d5293a5dc749" />
 
 
 ## BOM
@@ -41,5 +46,4 @@ The PCB is made in Kicad
 | 1        | 3D-Printed Case (Top + Bottom)     |
 
 ## Firmware
-
-The macropad uses **QMK** for key mapping and rotary encoder functionality.
+VibeDeck uses KMK firmware with CircuitPython, located in the Firmware directory
