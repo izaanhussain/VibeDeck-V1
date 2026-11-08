@@ -1,0 +1,27 @@
+### Footprint positions - created on 2026-11-08T10:05:28 ###
+### Printed by KiCad version 10.0.6
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                      Package                                              PosX       PosY       Rot  Side
+D1        1N4148                   D_DO-35_SOD27_P7.62mm_Horizontal                  81.0000   -83.8100   90.0000  top
+D2        1N4148                   D_DO-35_SOD27_P7.62mm_Horizontal                 107.0000   -83.8100   90.0000  top
+D3        1N4148                   D_DO-35_SOD27_P7.62mm_Horizontal                 132.0000   -84.0000   90.0000  top
+D4        1N4148                   D_DO-35_SOD27_P7.62mm_Horizontal                  81.0000  -105.8100   90.0000  top
+D5        1N4148                   D_DO-35_SOD27_P7.62mm_Horizontal                 107.0000  -105.8100   90.0000  top
+D6        1N4148                   D_DO-35_SOD27_P7.62mm_Horizontal                 132.0000  -106.8100   90.0000  top
+D7        1N4148                   D_DO-35_SOD27_P7.62mm_Horizontal                  81.0000  -127.8100   90.0000  top
+D8        1N4148                   D_DO-35_SOD27_P7.62mm_Horizontal                 107.0000  -127.8100   90.0000  top
+D9        1N4148                   D_DO-35_SOD27_P7.62mm_Horizontal                 132.0000  -127.8100   90.0000  top
+J1        Conn_01x04               FanPinHeader_1x04_P2.54mm_Vertical                92.0000   -54.9200  -90.0000  top
+SW1       SW_Push_45deg            SW_Cherry_MX_1.00u_PCB                            70.5400   -73.9200    0.0000  top
+SW2       SW_Push_45deg            SW_Cherry_MX_1.00u_PCB                            96.5400   -73.9200    0.0000  top
+SW3       SW_Push_45deg            SW_Cherry_MX_1.00u_PCB                           121.6200   -73.9200    0.0000  top
+SW4       SW_Push_45deg            SW_Cherry_MX_1.00u_PCB                            70.4600   -95.9200    0.0000  top
+SW5       SW_Push_45deg            SW_Cherry_MX_1.00u_PCB                            96.5400   -95.9200    0.0000  top
+SW6       SW_Push_45deg            SW_Cherry_MX_1.00u_PCB                           121.5400   -95.9200    0.0000  top
+SW7       SW_Push_45deg            SW_Cherry_MX_1.00u_PCB                            70.5400  -117.9200    0.0000  top
+SW8       SW_Push_45deg            SW_Cherry_MX_1.00u_PCB                            96.4600  -117.9200    0.0000  top
+SW9       SW_Push_45deg            SW_Cherry_MX_1.00u_PCB                           121.5400  -117.9200    0.0000  top
+SW10      RotaryEncoder_Switch_MP  RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm   108.5000   -52.0000    0.0000  top
+U1        MOUDLE-SEEEDUINO-XIAO    XIAO-Generic-Hybrid-14P-2.54-21X17.8MM            72.3750   -53.9200    0.0000  top
+## End
