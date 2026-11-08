@@ -1,0 +1,10 @@
+Quantity,Designator,Part,Notes
+1,U1,Seeed XIAO RP2040 development board,Controller
+9,D1-D9,1N4148 diode,Key matrix
+9,SW1-SW9,Cherry MX mechanical switch,Keys
+1,ROT1,EC11E rotary encoder with push switch,Encoder
+1,DISP1,0.91-inch OLED display,Display
+9,—,DSA keycap,Keycaps
+4,—,M3 × 16 mm screw,Case hardware
+4,—,M3 × 5 mm × 4 mm heat-set insert,Case hardware
+1,—,3D-printed case (top + bottom),Enclosure
