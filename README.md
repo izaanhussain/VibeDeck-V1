@@ -27,7 +27,7 @@ The PCB is made in Kicad
 <img width="845" height="591" alt="image" src="https://github.com/user-attachments/assets/5cb51dbd-4600-4ca7-bab1-a474490a98a0" />
 
 # Case
-
+i used the case from https://github.com/Laval32/Custom-Macropad
 <img width="977" height="743" alt="WhatsApp Image 2026-11-08 at 1 47 49 PM" src="https://github.com/user-attachments/assets/71077600-af35-4e7f-afd6-d5293a5dc749" />
 
 
@@ -47,3 +47,7 @@ The PCB is made in Kicad
 
 ## Firmware
 VibeDeck uses KMK firmware with CircuitPython, located in the Firmware directory
+## credits
+i made everything as u can check in the lapse except i tried to make the case which i couldnt so i used the case by https://github.com/Laval32/Custom-Macropad
+I do not claim any credit for his works the CAD case credits:- https://github.com/Laval32/
+This project was made and shipped to #embasyy hackclub YSWS
